@@ -2,6 +2,7 @@
 
 🎓 Computer & Communications Engineering @ AUB   
 🧠 AI Alignment Safety, Adversarial ML, Security, XR Systems  
+🔍 My papers can be found here: https://github.com/eliaskhoury3100/Research-Papers.git
 
 ## 🚀 About Me
 
